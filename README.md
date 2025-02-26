@@ -638,7 +638,7 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 * [Web Extension](https://cosmostation.io/products/cosmostation_extension)
 
 ##### Peers
-- Peer: 78f93af4449c5b7b8a590267b65dd661bccb0b23@184.107.182.146:16400
+- Peer: `78f93af4449c5b7b8a590267b65dd661bccb0b23@184.107.182.146:16400`
 - Bridge: `12D3KooWJgWcLLiNnYqLihKW1PFuPDBT1uWoFengKXrTxVyiUwca`
 
 ##### Snapshots
@@ -650,7 +650,7 @@ https://testnet.celestia.explorers.guru/validator/celestiavaloper16kzqyl6rf8ph38
 * [Mintscan Explorer](https://www.mintscan.io/celestia-testnet/)
 
 ##### Peers
-- Peer: f0ffd8053bc05118ea094247d579639a29dc74a1@184.107.110.139:59300
+- Peer: `f0ffd8053bc05118ea094247d579639a29dc74a1@184.107.110.139:59300`
 - Bridge: `12D3KooWR176xChPV3YFEtRPwAd8hAjnSNQqBr6cuqkDa9FvBEmF`
 
 #### Community
